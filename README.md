@@ -4,8 +4,7 @@
 - 💻 Enthusiast in Programming
 - 📝 Learning a Little Each Day
 - 🎧 In My Free Time I'm a DJ
-
-
+##
 
 <div align="center">
   <a href="https://github.com/oguilhermelopes">
@@ -22,7 +21,7 @@
 </div>
   
 ##
-
+  
 <div>
   <a href="https://www.linkedin.com/in/guilherme-lopes-65a9921a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
