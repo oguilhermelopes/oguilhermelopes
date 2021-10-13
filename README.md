@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/oguilhermelopes">
-  <img  width="100em" src="https://github-readme-stats.vercel.app/api?username=oguilhermelopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguilhermelopes&layout=compact&langs_count=7&theme=dark"/>
+  <img  width="180em" src="https://github-readme-stats.vercel.app/api?username=oguilhermelopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguilhermelopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br> 
