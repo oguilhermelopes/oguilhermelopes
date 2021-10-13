@@ -1,9 +1,5 @@
 ### Hi! I'm Guilherme Lopes 👋
 
-- ☎ Telecom Analyst
-- 💻 Enthusiast in Programming
-- 📝 Learning a Little Each Day
-- 🎧 In My Free Time I'm a DJ
 ##
 
 <div align="center">
