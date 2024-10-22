@@ -1,10 +1,10 @@
 ### Hi! I'm Guilherme Lopes 👋
 
-<div align="center">
+<!--- <div align="center">
   <a href="https://roadmap.sh" target="_blank">
     <img src="https://roadmap.sh/card/tall/6716a65b791f57dd6061c08b?variant=dark&roadmaps=python%2Csql%2Cjavascript%2Ctypescript" alt="roadmap.sh"/>
   </a>
-</div>
+</div> -->
 
 ##
 
