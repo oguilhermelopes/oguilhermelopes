@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/oguilhermelopes">
-  <img height="180em" src="https://roadmap.sh/card/tall/6716a65b791f57dd6061c08b?variant=dark&roadmaps=python%2Csql%2Cjavascript%2Ctypescript"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguilhermelopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguilhermelopes&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em" src="https://roadmap.sh/card/tall/6716a65b791f57dd6061c08b?variant=dark&roadmaps=python%2Csql%2Cjavascript%2Ctypescript"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oguilhermelopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguilhermelopes&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br> 
