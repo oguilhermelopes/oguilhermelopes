@@ -1,7 +1,7 @@
 ### Hi! I'm Guilherme Lopes 👋
 
 <div align="center">
-  <img src="https://roadmap.sh/card/tall/6716a65b791f57dd6061c08b?variant=dark&roadmaps=python%2Csql%2Cjavascript%2Ctypescript"/>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6716a65b791f57dd6061c08b?variant=dark&roadmaps=python%2Csql%2Cjavascript%2Ctypescript" alt="roadmap.sh"/></a>
 </div>
 
 ##
