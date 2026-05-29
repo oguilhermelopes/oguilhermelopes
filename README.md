@@ -1,13 +1,4 @@
 ### Hi! I'm Guilherme Lopes 👋
-
-<div align="center">
-  <a href="https://roadmap.sh" target="_blank">
-    <img src="https://roadmap.sh/card/tall/6716a65b791f57dd6061c08b?variant=dark&roadmaps=python%2Csql%2Cjavascript%2Ctypescript" alt="roadmap.sh"/>
-  </a>
-</div>
-
-##
-
 <div align="center">
   <a href="https://github.com/oguilhermelopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguilhermelopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
